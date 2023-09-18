@@ -1,0 +1,82 @@
+body{
+    margin:0;
+    /**margin-top:0;**/
+    background-color: rgb(24, 23, 23);
+}
+h5{
+   /** margin-top:0;**/
+    
+    color:white;
+   
+    font-size:16px;
+    display:inline;
+}
+.menu:hover{
+    background-color: red;
+}
+.exercises:hover{
+    background-color: red;
+}
+.services:hover{
+    background-color: red;
+}
+.menu{
+   
+    margin-top:0;
+    
+    color:white;
+   
+    font-size:16px;
+    display:inline;
+    position:relative;
+    top:17px;
+    height:25px;
+
+}
+.exercises{
+    margin-top:0;
+    
+    color:white;
+    position:relative;
+    top:17px;
+    font-size:16px;
+    display:inline;
+}
+.services{
+    margin-top:0;
+    position:relative;
+    
+    color:white;
+    top:17px;
+    font-size:16px;
+    display:inline;
+}
+p{
+    color:white;  
+}
+
+.fblock {
+    background-color:rgb(34, 47, 65);
+    width:1280px;
+    height:50px;
+    
+    text-align:center;
+    /**margin:0;**/
+    /**margin-top:0;**/
+
+}
+.lcont{
+    width:400px;
+    height:500px;
+    background-color:white;  
+    
+}
+.rcont{
+    margin-top:50px;
+    width:400px;
+    height:500px;
+    background-color:#27bbcb;
+    position:relative;
+    left:879px;
+
+}
